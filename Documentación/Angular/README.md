@@ -8,7 +8,7 @@
 
 Ir al link: https://nodejs.org/en/download/package-manager 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/548f3048-e861-4e1f-b7cd-7f05941ec1ba" width="700" height="400"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/548f3048-e861-4e1f-b7cd-7f05941ec1ba" width="500" height="250"/></p>
 
 <br>
 
@@ -28,7 +28,7 @@ Al instalar Node.js viene incluido el **npm** __(Node package manager)__, el cua
 
 <h2 align="center"> Instalación de Angular </h2>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/4129a86a-8a5b-4cc2-9b5d-408979ce09ae" width="500" height="350"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/4129a86a-8a5b-4cc2-9b5d-408979ce09ae" width="400" height="250"/></p>
 <br>
 
 **CLI** __(Command Line Interface)__ instala Angular para utilizarlo desde consola, copiar el comando y pegarlo en consola.
@@ -44,7 +44,7 @@ Para verificar que esté bien instalado Angular CLI, colocamos este comando:
 ```bash
 ng version 
 ```
-<p align="center"><img src="https://github.com/user-attachments/assets/579bdcf6-09c3-4cb7-a4f2-138ca5eb008a" width="500" height="350"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/579bdcf6-09c3-4cb7-a4f2-138ca5eb008a" width="400" height="250"/></p>
 <br>
 
 
