@@ -1,16 +1,14 @@
 
-<div style=";border:solid; margin:5px; padding:3%">
 
-<h1> Angular <h1>
+<h1 align="center">  NODE.JS Y ANGULAR </h1>
 
+----------
 
-<h2>Instalar Node.js</h2>
+<h2 align="center"> Instalar Node.js </h2>
 
 Ir al link: https://nodejs.org/en/download/package-manager 
 
-<div style="text-align: center;">
-  <img src="Images/nodejs.png" width="450" />
-</div>
+<p align="center"><img src="https://github.com/user-attachments/assets/548f3048-e861-4e1f-b7cd-7f05941ec1ba" width="700" height="400"/></p>
 
 <br>
 
@@ -22,22 +20,15 @@ Una vez instalado verificar la versión en el **cmd**:
 node --version
 ```
 
-<div style="text-align: center;">
-  <img src="Images/version.png" width="300" />
-</div>
+<p align="center"><img src="https://github.com/user-attachments/assets/3786af2e-c624-4f5c-b2ad-5cf7b9864227"/></p>
 
 <br>
 
 Al instalar Node.js viene incluido el **npm** __(Node package manager)__, el cual permite descargar distintas librerías, como en este caso **Angular** dentro de un proyecto.
 
-<h2> Instalación de Angular </h2>
+<h2 align="center"> Instalación de Angular </h2>
 
-Ir al link: https://angular.io/cli 
-
-<div style="text-align: center;">
-  <img src="Images/Angular.png" width="450" />
-</div>
-
+<p align="center"><img src="https://github.com/user-attachments/assets/4129a86a-8a5b-4cc2-9b5d-408979ce09ae" width="500" height="350"/></p>
 <br>
 
 **CLI** __(Command Line Interface)__ instala Angular para utilizarlo desde consola, copiar el comando y pegarlo en consola.
@@ -53,13 +44,11 @@ Para verificar que esté bien instalado Angular CLI, colocamos este comando:
 ```bash
 ng version 
 ```
-<div style="text-align: center;">
-  <img src="Images/versionAngular.png" width="300" />
-</div>
-
-
+<p align="center"><img src="https://github.com/user-attachments/assets/579bdcf6-09c3-4cb7-a4f2-138ca5eb008a" width="500" height="350"/></p>
 <br>
 
-</div>
+
+
+
 
 
