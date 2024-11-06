@@ -34,5 +34,23 @@ ng g c profile
 **ng** es la interfaz de línea de comandos de Angular (Angular CLI), cualquier comando de Angular comienza con **ng**, **g** es la abreviatura de **generate** (generar), **c** es la abreviatura de **component** (componente), y **profile** es el nombre del componente que se está creando.
 <p align="center"><img src="https://github.com/user-attachments/assets/7b494fc1-b5a4-403a-b0cf-a0844587907e"/></p>
 
+Ahora para visualizar el nuevo componente **profile**, se copia:
+
+```bash
+<app-profile></app-profile>
+```
+y se pega en: **app.component.html**
+
+DE esta manera se puede ver el HTML del nuevo componente creado.
+
+<p align="center"><img src="https://github.com/user-attachments/assets/6c043af6-b1fe-4794-8603-b38a0b5989a6" width="350" height="250"/></p>
+
+Viendo el proyecto en la web tenemos:
+
+<p align="center"><img src="https://github.com/user-attachments/assets/a5e7decf-a132-4f01-9964-4b2fb6d2a34a"/></p>
+
+
+
+
 
 
