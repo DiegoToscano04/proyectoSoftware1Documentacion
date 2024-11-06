@@ -1,5 +1,6 @@
 <h1 align="center"> DEFINICIONES </h1>
-Angular no es simplemente un framework frontend con el que se pueden construir SPA(Single Page Applications) Aplicaciones de Página Única, sino que también es una plataforma de desarrollo completa construida en TypeScript que incluye:
+<p align="center"><img src="https://github.com/user-attachments/assets/6d11ff73-5454-478e-b095-396c226713d4"/></p>
+Angular no es simplemente un framework frontend con el que se pueden construir SPA (Single Page Applications) Aplicaciones de Página Única, sino que también es una plataforma de desarrollo completa construida en TypeScript que incluye:
 
 * Framework basado en componentes para construir aplicaciones web escalabales.
 * Una colección de bibliotecas bien integradas que cubren una amplia variedad de características, incluyendo enrutamiento, gestión de formularios, comunicación cliente-servidor, aplicaciones web progresivas y más.
@@ -12,7 +13,7 @@ Angular no es simplemente un framework frontend con el que se pueden construir S
 * La interfaz de usuario y lógica del negocio están acopladas.
 * El cuerpo de respuesta generalmente es más pesado porque contiene tanto la interfaz de usuario como los datos.
 * También son llamadas aplicaciones de múltiples páginas (MPA) Multiple Pages Applications, porque cada vista está representada por una página separada.
-* Algunos ejemplos de frameworks y lenguajes de programación que desarrollan este tipo de páginas son: **PHP,Symphiny, JSP, Tapestry, ASP Razor pages.
+* Algunos ejemplos de frameworks y lenguajes de programación que desarrollan este tipo de páginas son: **PHP, Symphiny, JSP, Tapestry, ASP Razor pages**.
   
 <p align="center"><img src="https://github.com/user-attachments/assets/4e4b2713-87ac-4860-8d58-aa885757c40b" width="400" height="250"/></p>
  
@@ -20,7 +21,7 @@ Angular no es simplemente un framework frontend con el que se pueden construir S
 
 * La interfaz de usuario consiste en un único archivo HTML estático. El archivo se considera estático porque el servidor no modifica la página antes de entregarla.
 * Los datos se obtienen dinámicamente desde el servidor cuando el cliente los necesita.
-* El contenido de la página es alterado por el cliente a través de la manipulación del DOM (Document Object Model) el modelo de objeto de documento representa los elementos HTML de la página en el navegador, antualizando de manera dinámica sin recargar la página completa, permitiendo que la aplicación sea más rápida y eficiente.
+* El contenido de la página es alterado por el cliente a través de la manipulación del DOM (Document Object Model) el modelo de objeto de documento representa los elementos HTML de la página en el navegador, actualizando de manera dinámica sin recargar la página completa, permitiendo que la aplicación sea más rápida y eficiente.
 * El cliente utiliza JavaScript para obtener datos dinámicos y manipular el DOM.
 <p align="center"><img src="https://github.com/user-attachments/assets/0f46fdfe-ca3b-40d8-8090-000a7e371616" width="400" height="250"/></p>
 
