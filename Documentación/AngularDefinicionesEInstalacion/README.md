@@ -25,6 +25,16 @@ Angular no es simplemente un framework frontend con el que se pueden construir S
 * El cliente utiliza JavaScript para obtener datos dinámicos y manipular el DOM.
 <p align="center"><img src="https://github.com/user-attachments/assets/0f46fdfe-ca3b-40d8-8090-000a7e371616" width="400" height="250"/></p>
 
+<h3>Componentes en Angular</h3> 
+
+Un componente en angular es una unidad básica de la interfaz de usuario y representa una parte específica de la aplicación que se está diseñando, dichos componentes permiten dividir la interfaz en piezas reutilizables, modulares e independientes, el componente combina HTML, CSS y lógica de TypeScript.
+
+<p align="center"><img src="https://github.com/user-attachments/assets/d4ca71ab-f52d-40af-b5d6-5bf6e4996a59"/></p>
+
+* **Component.ts:** Contiene la clase TypeScript que define la lógica del componente.
+* **Component.html:** Archivo de la plantilla HTML que define la estructura y contenido visual del componente.
+* **Component.css:** Archivo de estilos específicos del componente.
+* **Component.spec.ts:** Archivo de pruebas para el componente, utilizado para pruebas unitarias.
 ---------------------
 <h1 align="center">  INSTALAR NODE.JS Y ANGULAR </h1>
 
