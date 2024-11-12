@@ -88,23 +88,74 @@ ng g c signup
 ```
 <p align="center"><img src="https://github.com/user-attachments/assets/bd982e45-8945-4dd6-a795-86f8b53d6eb4"/></p>
 
+Dentro de la carpeta **pages** creamos otro componente llamado **login**:
+```bash
+ng g c login
+```
+<p align="center"><img src="https://github.com/user-attachments/assets/a368b190-2fe8-4462-aea4-af18215ab23d"/></p>
 
+--------------------------------
 
-
-Ahora para visualizar el nuevo componente **profile**, se copia:
+<h1 align="center"> Formulario de Registro </h1>
+Se comienza con el diseño del formulario de registro en HTML:
 
 ```bash
-<app-profile></app-profile>
+<div class = "bootstrap-wrapper">
+    <div class= "container">
+        <div class= "row" style ="margin-top: 20px;">
+            <div class = "col-md-6 offset-md-3">
+                <div class = "container text-center">
+                    <img src = "../../../assets/login.png" width="100" height="100">
+                </div>
+                
+                <h1 class = "text-center">REGISTRATE aquí</h1>
+                <form action="">
+
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Nombre de Usuario</mat-label>
+                        <input matInput placeholder="Digite su Nombre de Usuario">
+                    </mat-form-field>
+                    
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Contraseña</mat-label>
+                        <input type= "password" matInput placeholder="Digite su contraseña">
+                    </mat-form-field>
+
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Nombre</mat-label>
+                        <input matInput placeholder="Digite su Nombre">
+                    </mat-form-field>
+
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Apellido</mat-label>
+                        <input matInput placeholder="Digite su Apellido">
+                    </mat-form-field>
+
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Email</mat-label>
+                        <input type="email" matInput placeholder="Digite su Email">
+                    </mat-form-field>
+
+                    <mat-form-field class = "full-width" appearance="outline">
+                        <mat-label>Teléfono</mat-label>
+                        <input type="email" matInput placeholder="Digite su Teléfono">
+                    </mat-form-field>
+
+                    <div class = "container text-center">
+                        <button mat mat-raised-button color="primary">Registrar</button>
+                        <button style = "margin-left: 20px;"  mat mat-raised-button color="accent">Cancelar</button>
+                    </div>
+
+                </form>
+                <br><br><br>
+            </div>
+        </div>
+    </div>
+</div>
 ```
-y se pega en: **app.component.html**
 
-DE esta manera se puede ver el HTML del nuevo componente creado.
 
-<p align="center"><img src="https://github.com/user-attachments/assets/6c043af6-b1fe-4794-8603-b38a0b5989a6" width="350" height="250"/></p>
-
-Viendo el proyecto en la web tenemos:
-
-<p align="center"><img src="https://github.com/user-attachments/assets/a5e7decf-a132-4f01-9964-4b2fb6d2a34a"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/57e15459-5f46-49f0-89d3-a29d17a89210"/></p>
 
 
 
